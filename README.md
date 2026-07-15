@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Ahsan Azam Banner" width="100%">
+</p>
 # Hi 👋, I'm Ahsan Azam
 <p align="center">
 
