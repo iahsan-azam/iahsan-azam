@@ -96,3 +96,8 @@ I'm passionate about building modern web applications, solving real-world proble
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iahsan-azam&theme=tokyonight&margin-w=15&margin-h=15"/>
 </p>
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iahsan-azam&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
