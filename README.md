@@ -91,3 +91,8 @@ I'm passionate about building modern web applications, solving real-world proble
 ### ⭐ Thanks for visiting my profile! ⭐
 
 </p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iahsan-azam&theme=tokyonight&margin-w=15&margin-h=15"/>
+</p>
