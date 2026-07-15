@@ -1,4 +1,15 @@
 # Hi 👋, I'm Ahsan Azam
+<p align="center">
+
+<a href="mailto:iahsanazam@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/iahsan-azam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ### 💻 Software Engineer | MS Computer Science Student | Full Stack Developer
 
