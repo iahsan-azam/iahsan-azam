@@ -83,26 +83,6 @@ Software Engineer • Full Stack Developer • MS Computer Science Student
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/iahsan-azam/ahsan-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iahsan-azam&repo=ahsan-portfolio&theme=tokyonight" alt="Portfolio Repository">
-  </a>
-
-  <a href="https://github.com/OmerSheeru/SchoolManagementSystem-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmerSheeru&repo=SchoolManagementSystem-Frontend&theme=tokyonight" alt="School Frontend">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/OmerSheeru/SchoolManagementSystem-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmerSheeru&repo=SchoolManagementSystem-Backend&theme=tokyonight" alt="School Backend">
-  </a>
-</p>
-
----
-
 ## 🌐 Portfolio Website
 
 A modern personal portfolio showcasing my projects, technical skills, and experience.
