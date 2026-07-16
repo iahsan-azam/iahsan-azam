@@ -178,36 +178,20 @@ REST APIs developed using Node.js, Express.js and MySQL.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iahsan-azam&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iahsan-azam&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iahsan-azam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iahsan-azam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=iahsan-azam&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=iahsan-azam&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iahsan-azam&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iahsan-azam&theme=tokyo-night&hide_border=true" />
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
