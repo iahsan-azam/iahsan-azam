@@ -105,21 +105,70 @@ Become a Professional Full Stack Developer and contribute to Open Source.
 
 # 🚀 Featured Projects
 
-## 🌐 Professional Portfolio
+<p align="center">
 
-Modern portfolio built using Vue.js 3, Bootstrap and Vite.
+<a href="https://github.com/iahsan-azam/ahsan-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iahsan-azam&repo=ahsan-portfolio&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/OmerSheeru/SchoolManagementSystem-Frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OmerSheeru&repo=SchoolManagementSystem-Frontend&theme=tokyonight"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/OmerSheeru/SchoolManagementSystem-Backend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OmerSheeru&repo=SchoolManagementSystem-Backend&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+## 🌐 Portfolio Website
+
+A modern personal portfolio showcasing my projects, technical skills, and experience.
+
+**Tech Stack**
+
+`Vue.js` `Bootstrap` `Vite`
 
 ---
 
 ## 🏫 School Management System
 
-Complete student management system using Vue.js.
+A complete web-based school management application.
+
+### Features
+
+- Student Management
+- Teacher Management
+- Attendance
+- Courses
+- Authentication
+
+**Frontend**
+
+`Vue.js`
+
+**Backend**
+
+`Node.js` `Express.js`
+
+**Database**
+
+`MySQL`
 
 ---
 
-## 🛒 E-Commerce Website
+## 🎯 Currently Building
 
-Responsive shopping platform with backend integration.
+- 🚀 REST APIs with Node.js
+- ⚡ Vue.js Applications
+- 🔐 Authentication Systems
+- 📊 MySQL Database Design
 
 ---
 
